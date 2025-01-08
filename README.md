@@ -1,0 +1,2 @@
+# WPS-JSA-Mode
+WPS或OFFICE的宏模板
